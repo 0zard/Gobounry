@@ -7,6 +7,6 @@
 ## 用法
 
 ```
-./main -f [name].json
+./Gobounty -f [name].json
 ```
 如果name 是hackerone.json就会分离hackerone的有效域名，支持bugcrawd、hackerone、intigriti。
